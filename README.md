@@ -16,3 +16,6 @@ The goal of this project is to generate a CNF that is difficult for SAT solvers 
 - Generation Time: Generating the CNF can take an extremely long time. For example, it takes several minutes for 4-bit numbers, several hours for 5-bit numbers, and for 6-bit numbers, the process does not finish even after a full day, leading to the termination of the task.
 
 This repository publishes an attempt to generate difficult CNFs, and it also highlights the existing challenges and areas for improvement. Feedback from interested users is welcome.
+
+I have published another source code to avoid CNF optimization by yosys.　　
+https://github.com/nagata442000/PrimeAndCompositeTautology2
